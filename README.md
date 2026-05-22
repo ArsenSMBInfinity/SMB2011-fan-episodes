@@ -49,6 +49,10 @@ I work with classic level editors that are, honestly, pretty limited. Aside from
 
 ---
 
+<p align="center">
+  <img src="SMB.gif" width="100%" style="max-width: 800px; display: block;" alt="SMB Banner">
+</p>
+
 ### 🔗 Oi let's play lad
 
 🎞️ **Feel free to watch my own Gameplays:** [My YouTube Channel](https://youtube.com)
