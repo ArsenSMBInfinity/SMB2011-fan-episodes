@@ -1,3 +1,4 @@
+<img src="mariobanner.png" width="100%" alt="Mario banner">
 # SMB2011-fan-episodes
 # 🍄 Hi everyone I'm Arseniy Volkov 
 
@@ -8,6 +9,8 @@
 ### 🕹️ About Me & My Grind
 
 Right now, I'm fully focused on creating custom episodes for the fan-made **Super Mario 2011**. I basically playtest my own maps **24/7**, balancing between standard, well-polished levels and hardcore, kaizo/bug-abusing madness. The grind never stops! 🛑
+
+<img src="coin.png" width="50" align="right" alt="Coin">
 
 Before this, I built stuff in **Mario Worker** and messed around with several other non-Mario level editors. Since I'm only 17, I'm still very much in the learning phase, but I'm loving every bit of it.
 
@@ -25,7 +28,7 @@ Briefly, this journey gives me hands-on experience in:
 
 ### 🛠️ My Toolbox
 
-I work with classic level editors that are, honestly, pretty limited. Aside from using *IbisPaint* for some custom tile work, **everything is built straight inside the editor's constraints.** Turning limitations into features is my favorite challenge!
+I work with classic level editors that are, honestly, pretty limited. Aside from using *IbisPaint* for some custom tile work, <img src="mushroom.png" width="50" align="left" alt="Mushroom"> **everything is built straight inside the editor's constraints.** Turning limitations into features is my favorite challenge!
 
 ---
 
